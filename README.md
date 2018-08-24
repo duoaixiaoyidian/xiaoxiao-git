@@ -1,0 +1,2 @@
+# xiaoxiao.txt
+eat fish
